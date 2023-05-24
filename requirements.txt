@@ -1,0 +1,6 @@
+request
+pandas>=1.3
+python-dotenv
+lxml
+tabulate
+numpy
