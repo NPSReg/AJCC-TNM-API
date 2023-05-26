@@ -12,3 +12,5 @@ This code does the following:
 * Stores the pandas dataframe as human / machine readable CSV file
 
 Since this code is based on a developer API license, the scope is only prostate cancer, with more to follow with access to a general API license.
+
+Lagt til en linje her, det er bra.
