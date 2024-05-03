@@ -13,4 +13,9 @@ This code does the following:
 
 Since this code is based on a developer API license, the scope is only prostate cancer, with more to follow with access to a general API license.
 
-Lagt til en linje her, det er bra.
+## Overview over terminology
+### Histology codes
+Using the WHO Classification of Tumors
+
+## Topography codes
+Using the ICD-O-3 classification.

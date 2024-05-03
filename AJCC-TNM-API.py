@@ -35,8 +35,8 @@ for tnm_type in uri_list:
     df_raw.loc[::2, ["version"]] = df_raw.loc[1, ["version"]].to_numpy()
     df_raw = df_raw.drop([0, 1]).reset_index().drop("index", axis=1)
     df_grouped = df_raw.groupby(np.arange(len(df_raw)) // 2).sum()
-    df_grouped["Organ"] = ['Prostate'] * len(df_grouped)
+    df_grouped["Organ"] = 'Prostate'
     frames.append(df_grouped)
 
 result = pd.concat(frames)
-result.to_csv("prostate.csv")
+result.to_csv("csv/ajcc-developer-prostate.csv")
