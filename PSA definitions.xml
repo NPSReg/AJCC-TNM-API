@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="UTF-16"?>
+<output>
+    <prolog>
+        <critdates class="- topic/critdates ">
+            <created date="2016-07-01" golive="2021-12-22" class="- topic/created "/>
+            <revised golive="2021-12-22" modified="2021-02-01" class="- topic/revised "/>
+        </critdates>
+        <prodinfo class="- topic/prodinfo ">
+            <prodname class="- topic/prodname ">
+                <keyword class="- topic/keyword ">MAG-PRO</keyword>Prostate
+            </prodname>
+            <vrmlist class="- topic/vrmlist ">
+                <vrm version="08.04.12" class="- topic/vrm "/>
+            </vrmlist>
+        </prodinfo>
+    </prolog>
+    <PSAdefinition
+        xmlns:jcm-link-man="http://jorsek.com/content-management/modules/linkmanagement"
+        xmlns:exist="http://exist.sourceforge.net/NS/exist" exist:id="1" exist:source="MAG-PRO-PSA-definition-expanded.dita" id="MAG-PRO-PSA-definition-expanded" jcm-link-man:uuid="d7e9c680-fe00-11ec-88a0-0242373718ad" class="- topic/topic reference/reference PSAdefinition/PSAdefinition ">
+        <title class="- topic/title ">MAG-PRO-PSA-definition-expanded</title>
+        <PSAdefinitionbody class="- topic/body reference/refbody PSAdefinition/PSAdefinitionbody ">
+            <simpletable class="- topic/simpletable ">
+                <sthead class="- topic/sthead ">
+                    <stentry class="- topic/stentry ">PSA Category</stentry>
+                </sthead>
+                <strow class="- topic/strow ">
+                    <stentry class="- topic/stentry ">
+                        <validvalue id="less than 10" valid="true" order="1" class="- topic/xref ajccDomain/validvalue ">less than 10</validvalue>
+                    </stentry>
+                </strow>
+                <strow class="- topic/strow ">
+                    <stentry class="- topic/stentry ">
+                        <validvalue id="greater than or equal to 10 but less than 20" valid="true" order="2" class="- topic/xref ajccDomain/validvalue ">greater than or equal to 10 but less than 20</validvalue>
+                    </stentry>
+                </strow>
+                <strow class="- topic/strow ">
+                    <stentry class="- topic/stentry ">
+                        <validvalue id="greater than or equal to 20" valid="true" order="3" class="- topic/xref ajccDomain/validvalue ">greater than or equal to 20</validvalue>
+                    </stentry>
+                </strow>
+            </simpletable>
+            <p class="- topic/p "/>
+        </PSAdefinitionbody>
+    </PSAdefinition>
+</output>

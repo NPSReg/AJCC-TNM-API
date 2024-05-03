@@ -1,0 +1,67 @@
+<?xml version="1.0" encoding="UTF-16"?>
+<output>
+    <prolog>
+        <critdates class="- topic/critdates ">
+            <created date="2016-07-01" golive="2021-12-22" class="- topic/created "/>
+            <revised golive="2021-12-22" modified="2021-02-01" class="- topic/revised "/>
+        </critdates>
+        <prodinfo class="- topic/prodinfo ">
+            <prodname class="- topic/prodname ">
+                <keyword class="- topic/keyword ">MAG-PRO</keyword>Prostate
+            </prodname>
+            <vrmlist class="- topic/vrmlist ">
+                <vrm version="08.04.12" class="- topic/vrm "/>
+            </vrmlist>
+        </prodinfo>
+    </prolog>
+    <Gdefinition
+        xmlns:jcm-link-man="http://jorsek.com/content-management/modules/linkmanagement"
+        xmlns:exist="http://exist.sourceforge.net/NS/exist" exist:id="1" exist:source="MAG-PRO-GG-definition-expanded.dita" id="MAG-PRO-GG-definition-expanded" jcm-link-man:uuid="f51cc040-fe00-11ec-88a0-0242373718ad" class="- topic/topic reference/reference Gdefinition/Gdefinition ">
+        <title class="- topic/title ">MAG-PRO-GG-definition-expanded</title>
+        <Gdefinitionbody class="- topic/body reference/refbody Gdefinition/Gdefinitionbody ">
+            <simpletable class="- topic/simpletable ">
+                <sthead class="- topic/sthead ">
+                    <stentry class="- topic/stentry ">GG Category</stentry>
+                    <stentry class="- topic/stentry ">Gleason Score</stentry>
+                    <stentry class="- topic/stentry ">Gleason Pattern</stentry>
+                </sthead>
+                <strow class="- topic/strow ">
+                    <stentry class="- topic/stentry ">
+                        <validvalue id="1" valid="true" order="1" class="- topic/xref ajccDomain/validvalue ">1</validvalue>
+                    </stentry>
+                    <stentry class="- topic/stentry ">less than or equal to 6</stentry>
+                    <stentry class="- topic/stentry ">less than or equal to 3+3</stentry>
+                </strow>
+                <strow class="- topic/strow ">
+                    <stentry class="- topic/stentry ">
+                        <validvalue id="2" valid="true" order="2" class="- topic/xref ajccDomain/validvalue ">2</validvalue>
+                    </stentry>
+                    <stentry class="- topic/stentry ">7</stentry>
+                    <stentry class="- topic/stentry ">3+4</stentry>
+                </strow>
+                <strow class="- topic/strow ">
+                    <stentry class="- topic/stentry ">
+                        <validvalue id="3" valid="true" order="3" class="- topic/xref ajccDomain/validvalue ">3</validvalue>
+                    </stentry>
+                    <stentry class="- topic/stentry ">7</stentry>
+                    <stentry class="- topic/stentry ">4+3</stentry>
+                </strow>
+                <strow class="- topic/strow ">
+                    <stentry class="- topic/stentry ">
+                        <validvalue id="4" valid="true" order="4" class="- topic/xref ajccDomain/validvalue ">4</validvalue>
+                    </stentry>
+                    <stentry class="- topic/stentry ">8</stentry>
+                    <stentry class="- topic/stentry ">4+4, 3+5, 5+3</stentry>
+                </strow>
+                <strow class="- topic/strow ">
+                    <stentry class="- topic/stentry ">
+                        <validvalue id="5" valid="true" order="5" class="- topic/xref ajccDomain/validvalue ">5</validvalue>
+                    </stentry>
+                    <stentry class="- topic/stentry ">9 or 10</stentry>
+                    <stentry class="- topic/stentry ">4+5, 5+4, or 5+5</stentry>
+                </strow>
+            </simpletable>
+            <p class="- topic/p "/>
+        </Gdefinitionbody>
+    </Gdefinition>
+</output>
