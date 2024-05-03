@@ -1,0 +1,115 @@
+<?xml version="1.0" encoding="UTF-16"?>
+<output>
+    <prolog>
+        <critdates class="- topic/critdates ">
+            <created date="2016-07-01" golive="2021-12-22" class="- topic/created "/>
+            <revised golive="2021-12-22" modified="2021-02-01" class="- topic/revised "/>
+        </critdates>
+        <prodinfo class="- topic/prodinfo ">
+            <prodname class="- topic/prodname ">
+                <keyword class="- topic/keyword ">MAG-PRO</keyword>Prostate
+            </prodname>
+            <vrmlist class="- topic/vrmlist ">
+                <vrm version="08.04.12" class="- topic/vrm "/>
+            </vrmlist>
+        </prodinfo>
+    </prolog>
+    <Tdefinition
+        xmlns:jcm-link-man="http://jorsek.com/content-management/modules/linkmanagement"
+        xmlns:exist="http://exist.sourceforge.net/NS/exist" exist:id="1" exist:source="MAG-PRO-T-definition-expanded-c.dita" definitiontype="clinical" id="MAG-PRO-T-definition-expanded-c" jcm-link-man:uuid="143d2790-fe00-11ec-88a0-0242373718ad" class="- topic/topic reference/reference Tdefinition/Tdefinition ">
+        <title class="- topic/title ">MAG-PRO-T-definition-expanded-c</title>
+        <Tdefinitionbody class="- topic/body reference/refbody Tdefinition/Tdefinitionbody ">
+            <Ttable class="- topic/simpletable Tdefinition/Ttable ">
+                <sthead class="- topic/sthead ">
+                    <stentry class="- topic/stentry ">T Category</stentry>
+                    <stentry class="- topic/stentry ">T Criteria</stentry>
+                </sthead>
+                <TNMrow class="- topic/strow ajccDomain/TNMrow ">
+                    <AJCCcategory class="- topic/stentry ajccDomain/AJCCcategory ">
+                        <validvalue id="TX" valid="true" order="1" class="- topic/xref ajccDomain/validvalue ">cTX</validvalue>
+                    </AJCCcategory>
+                    <AJCCcriteria class="- topic/stentry ajccDomain/AJCCcriteria ">Primary tumor cannot be assessed</AJCCcriteria>
+                </TNMrow>
+                <TNMrow class="- topic/strow ajccDomain/TNMrow ">
+                    <AJCCcategory class="- topic/stentry ajccDomain/AJCCcategory ">
+                        <validvalue id="T0" valid="true" order="2" class="- topic/xref ajccDomain/validvalue ">cT0</validvalue>
+                    </AJCCcategory>
+                    <AJCCcriteria class="- topic/stentry ajccDomain/AJCCcriteria ">No evidence of primary tumor</AJCCcriteria>
+                </TNMrow>
+                <TNMrow class="- topic/strow ajccDomain/TNMrow ">
+                    <AJCCcategory class="- topic/stentry ajccDomain/AJCCcategory ">
+                        <validvalue id="T1" valid="true" order="3" class="- topic/xref ajccDomain/validvalue ">cT1</validvalue>
+                    </AJCCcategory>
+                    <AJCCcriteria class="- topic/stentry ajccDomain/AJCCcriteria ">Clinically inapparent tumor that is not palpable</AJCCcriteria>
+                </TNMrow>
+                <TNMrow class="- topic/strow ajccDomain/TNMrow ">
+                    <AJCCcategory class="- topic/stentry ajccDomain/AJCCcategory ">
+                        <validvalue id="T1a" valid="true" order="4" class="- topic/xref ajccDomain/validvalue ">cT1a</validvalue>
+                    </AJCCcategory>
+                    <AJCCcriteria class="- topic/stentry ajccDomain/AJCCcriteria ">Tumor incidental histologic finding in 5 percent or less of tissue resected</AJCCcriteria>
+                </TNMrow>
+                <TNMrow class="- topic/strow ajccDomain/TNMrow ">
+                    <AJCCcategory class="- topic/stentry ajccDomain/AJCCcategory ">
+                        <validvalue id="T1b" valid="true" order="5" class="- topic/xref ajccDomain/validvalue ">cT1b</validvalue>
+                    </AJCCcategory>
+                    <AJCCcriteria class="- topic/stentry ajccDomain/AJCCcriteria ">Tumor incidental histologic finding in more than 5 percent of tissue resected</AJCCcriteria>
+                </TNMrow>
+                <TNMrow class="- topic/strow ajccDomain/TNMrow ">
+                    <AJCCcategory class="- topic/stentry ajccDomain/AJCCcategory ">
+                        <validvalue id="T1c" valid="true" order="6" class="- topic/xref ajccDomain/validvalue ">cT1c</validvalue>
+                    </AJCCcategory>
+                    <AJCCcriteria class="- topic/stentry ajccDomain/AJCCcriteria ">Tumor identified by needle biopsy found in one or both sides, but not palpable</AJCCcriteria>
+                </TNMrow>
+                <TNMrow class="- topic/strow ajccDomain/TNMrow ">
+                    <AJCCcategory class="- topic/stentry ajccDomain/AJCCcategory ">
+                        <validvalue id="T2" valid="true" order="7" class="- topic/xref ajccDomain/validvalue ">cT2</validvalue>
+                    </AJCCcategory>
+                    <AJCCcriteria class="- topic/stentry ajccDomain/AJCCcriteria ">Tumor is palpable and confined within prostate</AJCCcriteria>
+                </TNMrow>
+                <TNMrow class="- topic/strow ajccDomain/TNMrow ">
+                    <AJCCcategory class="- topic/stentry ajccDomain/AJCCcategory ">
+                        <validvalue id="T2a" valid="true" order="8" class="- topic/xref ajccDomain/validvalue ">cT2a</validvalue>
+                    </AJCCcategory>
+                    <AJCCcriteria class="- topic/stentry ajccDomain/AJCCcriteria ">Tumor involves one-half of one side or less</AJCCcriteria>
+                </TNMrow>
+                <TNMrow class="- topic/strow ajccDomain/TNMrow ">
+                    <AJCCcategory class="- topic/stentry ajccDomain/AJCCcategory ">
+                        <validvalue id="T2b" valid="true" order="9" class="- topic/xref ajccDomain/validvalue ">cT2b</validvalue>
+                    </AJCCcategory>
+                    <AJCCcriteria class="- topic/stentry ajccDomain/AJCCcriteria ">Tumor involves more than one-half of one side but not both sides</AJCCcriteria>
+                </TNMrow>
+                <TNMrow class="- topic/strow ajccDomain/TNMrow ">
+                    <AJCCcategory class="- topic/stentry ajccDomain/AJCCcategory ">
+                        <validvalue id="T2c" valid="true" order="10" class="- topic/xref ajccDomain/validvalue ">cT2c</validvalue>
+                    </AJCCcategory>
+                    <AJCCcriteria class="- topic/stentry ajccDomain/AJCCcriteria ">Tumor involves both sides</AJCCcriteria>
+                </TNMrow>
+                <TNMrow class="- topic/strow ajccDomain/TNMrow ">
+                    <AJCCcategory class="- topic/stentry ajccDomain/AJCCcategory ">
+                        <validvalue id="T3" valid="true" order="11" class="- topic/xref ajccDomain/validvalue ">cT3</validvalue>
+                    </AJCCcategory>
+                    <AJCCcriteria class="- topic/stentry ajccDomain/AJCCcriteria ">Extraprostatic tumor that is not fixed or does not invade adjacent structures</AJCCcriteria>
+                </TNMrow>
+                <TNMrow class="- topic/strow ajccDomain/TNMrow ">
+                    <AJCCcategory class="- topic/stentry ajccDomain/AJCCcategory ">
+                        <validvalue id="T3a" valid="true" order="12" class="- topic/xref ajccDomain/validvalue ">cT3a</validvalue>
+                    </AJCCcategory>
+                    <AJCCcriteria class="- topic/stentry ajccDomain/AJCCcriteria ">Extraprostatic extension (unilateral or bilateral)</AJCCcriteria>
+                </TNMrow>
+                <TNMrow class="- topic/strow ajccDomain/TNMrow ">
+                    <AJCCcategory class="- topic/stentry ajccDomain/AJCCcategory ">
+                        <validvalue id="T3b" valid="true" order="13" class="- topic/xref ajccDomain/validvalue ">cT3b</validvalue>
+                    </AJCCcategory>
+                    <AJCCcriteria class="- topic/stentry ajccDomain/AJCCcriteria ">Tumor invades seminal vesicle(s)</AJCCcriteria>
+                </TNMrow>
+                <TNMrow class="- topic/strow ajccDomain/TNMrow ">
+                    <AJCCcategory class="- topic/stentry ajccDomain/AJCCcategory ">
+                        <validvalue id="T4" valid="true" order="14" class="- topic/xref ajccDomain/validvalue ">cT4</validvalue>
+                    </AJCCcategory>
+                    <AJCCcriteria class="- topic/stentry ajccDomain/AJCCcriteria ">Tumor is fixed or invades adjacent structures other than seminal vesicles such as external sphincter, rectum, bladder, levator muscles, and/or pelvic wall</AJCCcriteria>
+                </TNMrow>
+            </Ttable>
+            <p class="- topic/p "/>
+        </Tdefinitionbody>
+    </Tdefinition>
+</output>
